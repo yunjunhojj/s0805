@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React 사랑해요 연애가중계
         </a>
       </header>
     </div>
